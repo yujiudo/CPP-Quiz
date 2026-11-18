@@ -1,0 +1,5 @@
+Как называется режим Deadlock с короткими раундами и боями 4 на 4?|Ranked|Street Brawl|Sandbox|Training|B
+Какой герой может превращаться в большой шар из слизи?|Viscous|Wraith|Dynamo|Infernus|A
+Как называется основная игровая валюта?|Gold|Credits|Souls|Coins|C
+Как называется система быстрого передвижения между базой и линиями?|Zipline|Hook|Dash|Glide|A
+Как называется большой противник в центре карты?|Walker|Guardian|Mid-Boss|Trooper|C
